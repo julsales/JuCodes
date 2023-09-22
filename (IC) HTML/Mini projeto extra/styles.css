@@ -1,0 +1,58 @@
+@font-face {
+    font-family: 'Skranji';
+    src: url("Fonte/Skranji-Regular.ttf");
+}
+h1{
+    background-color:antiquewhite;
+    border-radius: 10px;
+    width: 40%;
+    font-style: oblique; 
+}
+section.logo{
+    background-color: rgb(36, 36, 36);
+    border-radius: 10px;
+    width: 40%;
+    font-style: oblique; 
+}
+h3{
+    background-color: antiquewhite;
+    border-radius: 10px;
+    width: 20%;
+}
+h2{
+    background-color: antiquewhite;
+    border-radius: 10px;
+    width: 80%;
+
+}
+body{
+    background-color: rgb(56, 56, 56);
+}
+th{
+    background-color: black; color: aliceblue;
+    font-family: Skranji;
+    font-size: 18px
+    
+}
+table{
+    border-color: crimson;
+    background-color: bisque;
+    width: 80%;
+    margin: auto;
+    border-collapse: collapse;
+}
+td{
+    color: rgba(0, 0, 0, 0.671);
+    font-stretch: condensed;
+    font-size: 18px;
+    
+}
+li{
+   border: 10px;
+   border-radius: 10px;
+    font-family: Skranji;
+}
+input[type="submit"]{
+    background-color: rgb(97, 61, 61);
+    color: aliceblue;
+}
