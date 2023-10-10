@@ -1,0 +1,317 @@
+
+@font-face {
+    font-family: 'kaushan';
+    src: url("KaushanScript-Regular.ttf")
+}
+body{
+    background-color: #f1e8ed;
+}
+.sobre{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-image: url("popup.jpg");
+    background-size: contain;
+    text-align: center;
+    width: 470px;
+    height: 230px;
+    border: 2px solid rgb(92, 11, 78);
+    border-collapse: collapse;
+    border-radius: 10px;
+    padding: 50px;
+    margin: 20px auto;
+    margin-bottom: 20px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2) ;
+}
+.sobre h2{
+    font-family: 'kaushan';
+}
+.sobre img{
+    width: 70px;
+}
+
+#menu {
+    background-image: url("menubg.jpg");
+    background-size: cover;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2) ;
+    padding: 2px;
+    display:inline-flex;
+    align-items: center;
+    position: fixed; 
+    top: 0; 
+    left: 0;
+    right: 0;
+    z-index: 1000;
+  }
+
+  h1{
+    font-family:'kaushan';
+    text-shadow: #333;
+    font-size: 25px;
+    color: rgb(51, 17, 58);
+    margin-right: 50px;
+    padding: 10px;
+    background-color: rgba(231, 231, 231, 0.7);
+    border-radius: 5px;
+    border-style: dashed;
+
+    
+}
+  .logo img {
+    max-width: 100px; 
+    height: auto;
+    padding-left: 80px;
+  }
+  
+  #menu ul {
+    list-style: none; 
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    margin-left: 10px;
+    border-radius: 5px;
+    
+  }
+  
+  #menu ul li {
+    font-family: 'kaushan';
+    margin-right: 20px; 
+    position: relative; 
+    color: #333;
+  }
+  
+  #menu ul li a {
+    text-decoration: none; 
+    font-size: 25px;
+    color: #333;
+    transition: color 0.3s;
+    justify-content: center;
+  }
+  
+  #menu ul li a:hover {
+    color: #b891ac; 
+  }
+  
+  .submenu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color:rgba(231, 231, 231, 0.7);
+    opacity: 0;
+    box-shadow: 0 4px 6px rgb(92, 92, 92);
+    border-radius: 0 0 5px 5px;
+    visibility: hidden;
+    transition: opacity 0.3s, visibility 0.3s; 
+    display: flex; 
+    flex-direction: column; 
+    align-items: flex-start;
+}
+
+.submenu li:hover  {
+    opacity: 1;
+    visibility: visible;
+}
+
+.submenu li {
+    margin-right: 0; 
+    display: block;
+}
+
+.submenu a {
+    font-weight: normal; 
+    color: #9c6991; 
+}
+
+.submenu a:hover {
+    color: #ffffff; 
+}
+  
+#menu ul li:hover .submenu {
+    opacity: 1;
+    visibility: visible;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.caixa-pesquisa {
+    width: 320px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-style: dashed;
+    border-radius: 5px;
+    margin-top: 5px;
+    font-size: 16px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.botao-pesquisa {
+    background-color:rgb(85, 21, 66,0.3);
+    color:#1d021d;
+    border: 10px;
+    margin-right: 20px;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 14px;
+    cursor: pointer;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.produto {
+    padding: 20px;
+    margin-right: 20px; 
+    background-color: rgba(224, 176, 209, 0.3);
+    border-radius: 10px;
+    width: 150px;
+    text-align: center;
+    height: 300px; 
+    overflow: hidden; 
+    display:inline-block;
+}
+.categoria h2{
+    font-family: 'kaushan';
+    background: linear-gradient(to right, #bd559e, #551542);
+    text-transform: uppercase;
+    text-shadow: 2px 2px 4px rgba(95, 12, 95, 0.4);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+.produto:last-child {
+    margin-right: 0; 
+}
+
+.produto img {
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgb(156, 105, 145, 0.5);
+    max-width: 100%;
+    max-height: 100%;
+    width: 150px;
+    height: 150px;
+}
+
+.produto img:hover {
+    opacity: 0.5;
+  }
+
+.produto h3 {
+    margin-top: 0;
+    color: #300530;
+    font-family: 'kaushan';
+    text-align: center;
+}
+
+.produto p {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.produto button {
+    margin-top: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    width: 100px;
+    border-radius: 10px;
+    border-collapse: collapse;
+    border-color: #300530;
+    background-color: rgb(51, 51, 51, 0.3);
+    color: #300530
+}
+
+.produto button:hover{
+    opacity: 0.5;
+}
+
+section.categoria {
+    text-align: center; 
+    margin-bottom: 90px;
+}
+
+section.categoria p{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+
+}
+
+.divisoria-gradient {
+    background: linear-gradient(to bottom, #ccc, transparent);
+    height: 1px;
+    padding: 2px;
+    margin: 20px 0;
+}
+
+footer {
+    text-align: center;
+    padding: 1px 3px;
+    background-color: #333;
+    color: #fff;    
+}
+.footerlogo img {
+    max-width: 100px; 
+    height: 100px;
+}
+#pagamento{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-collapse: collapse;
+    border: 2px solid rgb(34, 6, 29);
+    background-color: rgb(204, 204, 204,0.9);
+    border-radius: 10px;
+    color: #0e020a;
+}
+#pagamento img{
+    max-width: 50px; 
+    height: 50px;
+}
+.produtoindividual {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    padding-top: 85px;
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    background-color: rgba(224, 176, 209, 0.3);
+  }
+
+  .produtoindividual h2{
+    font-family: 'kaushan';
+    color: #300530;
+  }
+
+  .produtoindividual img{
+    width: fit-content;
+    max-height: 270px;
+  }
+  
+  .produtoindividual button {
+    outline: 0;
+    padding: 12px;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+    margin-top: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    border-radius: 10px;
+    border-collapse: collapse;
+    border-color: #300530;
+    background-color: rgba(20, 20, 20);
+    color: #c7bcc7
+  }
+  
+  .produtoindividual button:hover {
+    opacity: 0.7;
+  }
+  .produtoindividual p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+  }
+.descricao{
+    padding: 5px;
+    margin: 15px;
+}
+.manutencao{
+    text-align: center;
+    padding: 10px;
+    margin-top: 110px;
+    margin-bottom: 20px;
+}
