@@ -5,6 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3b8e36f-ffbf-4a3f-a7c1-4f12a1dfcfe6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lista 1/src/JavaEstruturado1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista 1/src/JavaEstruturado2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista 1/src/JavaEstruturado3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista 1/src/JavaEstruturado4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2 SM/PIF/Mini provas/Mini Golf.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Warmup Java/src/Atividades/Atvd2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Warmup Java/src/Atividades/Atvd2.java" afterDir="false" />
     </list>
@@ -16,10 +21,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2kyOSOEU0Md623tv2ElfcfBOY3I" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,6 +36,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/julia/Documents/GitHub/jucode/3 SM/POO/Atividades POO",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -55,6 +61,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724252351882</updated>
+      <workItem from="1724252353844" duration="676000" />
+      <workItem from="1724600416637" duration="350000" />
       <workItem from="1724252353844" duration="1379000" />
     </task>
     <servers />
