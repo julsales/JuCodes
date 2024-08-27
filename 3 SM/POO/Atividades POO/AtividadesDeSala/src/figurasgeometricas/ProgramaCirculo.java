@@ -2,10 +2,11 @@
 //e imprimir a área e o perímetro de cada um dos três círculos.
 //perimetro = 2*PI*R
 //area = P*R*R
-package Abstracao;
+package figurasgeometricas;
+
 import java.util.Scanner;
 
-public class Raios {
+public class ProgramaCirculo {
     public static final Scanner sc = new Scanner(System.in);
     public static void main(String[] args) {
         Circulo t1 = new Circulo();
