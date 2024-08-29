@@ -2,9 +2,12 @@ package figurasgeometricas;
 
 class Circulo {
     double raio;
-    double calcularPerimetro() {
+    Circulo(double raio) {
+        this.raio = raio;
+    }
+    double calcularPerimetro(double raio) {
         return 2 * Math.PI * raio;
-    }double calcularArea() {
+    }double calcularArea(double raio) {
         return Math.PI * raio * raio;
     }
 }

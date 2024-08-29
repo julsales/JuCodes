@@ -26,25 +26,26 @@ void unqueue(Node **head, Node **tail, int *pacientesAtendidos) {
     if (*head != NULL) {
         Node *aux = *head;
         *head = aux->next;
-        if (*head == NULL) {
-            *tail = NULL;
-        }
         printf("Paciente %s foi atendido.\n", aux->nome);
         free(aux);
         (*pacientesAtendidos)++;
+        //tratamento se a tail estiver nula
+        if (*head == NULL) {
+            *tail = NULL;
+        }
     } else {
         printf("Nenhum paciente na fila para atendimento.\n");
     }
 }
 
+//Não precisa de auxiliar por ser busca por indice
 int consultarPosicao(Node *head, char *paciente) {
-    Node *aux = head;
     int posicao = 1;
-    while (aux != NULL) {
-        if (strcmp(aux->nome, paciente) == 0) {
+    while (head != NULL) {
+        if (strcmp(head->nome, paciente) == 0) {
             return posicao;
         }
-        aux = aux->next;
+        head = head->next;
         posicao++;
     }
     return -1;
@@ -86,7 +87,7 @@ int main(void) {
                 printf("Paciente %s não está na fila.\n", paciente);
             }
         } else if (n == 4) {
-            printf("Quantidade de pacientes já atendidos: %d\n", pacientesAtendidos);
+            printf("Quantidade de pacientes atendidos: %d\n", pacientesAtendidos);
         } else if (n == 5) {
             break;
         } else {

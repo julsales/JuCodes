@@ -1,0 +1,3 @@
+C:/Users/julia/Documents/GitHub/jucode/3 SM/AED/atividades em sala/Atvd4/cmake-build-debug/CMakeFiles/atvd4.dir
+C:/Users/julia/Documents/GitHub/jucode/3 SM/AED/atividades em sala/Atvd4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/julia/Documents/GitHub/jucode/3 SM/AED/atividades em sala/Atvd4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
