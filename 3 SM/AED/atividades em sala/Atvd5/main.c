@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//Gpt puro só queria saber como faz pq to sem tempo agr kkkkkk, preciso dormir
 typedef struct Node {
     int data;
     struct Node* next;
