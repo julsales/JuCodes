@@ -1,4 +1,4 @@
-package figurasGeometricas;
+package figurasgeometricas;
 
 class Produto {
     float precoInicial;
