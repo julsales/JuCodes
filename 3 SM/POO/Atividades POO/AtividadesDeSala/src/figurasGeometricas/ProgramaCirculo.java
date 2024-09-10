@@ -2,7 +2,7 @@
 //e imprimir a área e o perímetro de cada um dos três círculos.
 //perimetro = 2*PI*R
 //area = P*R*R
-package figurasgeometricas;
+package figurasGeometricas;
 
 import java.util.Scanner;
 

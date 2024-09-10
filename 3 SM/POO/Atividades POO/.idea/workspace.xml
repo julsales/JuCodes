@@ -5,7 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3b8e36f-ffbf-4a3f-a7c1-4f12a1dfcfe6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Atvd2/Atvd2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadesDeSala/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadesDeSala/src/figurasgeometricas/Circulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadesDeSala/src/figurasGeometricas/Circulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadesDeSala/src/figurasgeometricas/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadesDeSala/src/figurasGeometricas/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadesDeSala/src/figurasgeometricas/ProgramaCirculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadesDeSala/src/figurasGeometricas/ProgramaCirculo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadesDeSala/src/figurasgeometricas/ProgramaProduto.java" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadesDeSala/src/figurasGeometricas/ProgramaProduto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 2/Lista 2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 2/src/figurasgeometricas/Circulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 2/src/figurasgeometricas/Produto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 2/src/figurasgeometricas/ProgramaCirculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 2/src/figurasgeometricas/ProgramaProduto.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,21 +40,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/julia/Documents/GitHub/jucode/3 SM/POO/Atividades POO&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/julia/Documents/GitHub/jucode/3 SM/POO/Atividades POO/AtividadesDeSala/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\julia\Documents\GitHub\jucode\3 SM\POO\Atividades POO\AtividadesDeSala\src" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -62,6 +84,7 @@
       <workItem from="1725583305072" duration="3326000" />
       <workItem from="1725664527404" duration="198000" />
       <workItem from="1725664816072" duration="3021000" />
+      <workItem from="1725928445781" duration="407000" />
     </task>
     <servers />
   </component>
