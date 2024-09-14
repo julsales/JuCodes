@@ -1,4 +1,4 @@
-package figurasGeometricas;
+package FigurasGeometricas;
 import java.util.Scanner;
 
 public class MainQuadrilateros {

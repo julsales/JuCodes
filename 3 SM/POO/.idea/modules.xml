@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Atividades POO/AtividadesDeSala/AtividadesDeSala.iml" filepath="$PROJECT_DIR$/Atividades POO/AtividadesDeSala/AtividadesDeSala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista 1/Lista 1.iml" filepath="$PROJECT_DIR$/Lista 1/Lista 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista 2/Lista 2.iml" filepath="$PROJECT_DIR$/Lista 2/Lista 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista 3/Lista 3.iml" filepath="$PROJECT_DIR$/Lista 3/Lista 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/POO.iml" filepath="$PROJECT_DIR$/.idea/POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividades POO/Warmup Java/Warmup Java.iml" filepath="$PROJECT_DIR$/Atividades POO/Warmup Java/Warmup Java.iml" />
+    </modules>
+  </component>
+</project>

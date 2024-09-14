@@ -6,6 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="e3b8e36f-ffbf-4a3f-a7c1-4f12a1dfcfe6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 3/src/figurasGeometricas/MainQuadrilateros.java" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadesDeSala/src/figurasgeometricas/MainQuadrilateros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 3/src/figurasGeometricas/Quadrado.java" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadesDeSala/src/figurasgeometricas/Quadrado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 3/src/figurasGeometricas/Retangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadesDeSala/src/figurasgeometricas/Retangulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 3/src/maquinas/MainMaquinas.java" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadesDeSala/src/maquinas/MainMaquinas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 3/src/maquinas/Maquina.java" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadesDeSala/src/maquinas/Maquina.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 3/src/maquinas/MaquinaCombustao.java" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadesDeSala/src/maquinas/MaquinaCombustao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 3/src/maquinas/MaquinaEletrica.java" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadesDeSala/src/maquinas/MaquinaEletrica.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,21 +31,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/julia/Documents/GitHub/jucode/3 SM/POO/Atividades POO&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/julia/Documents/GitHub/jucode/3 SM/POO",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="Application" />
+      </set>
+    </option>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -62,6 +76,9 @@
       <workItem from="1725583305072" duration="3326000" />
       <workItem from="1725664527404" duration="198000" />
       <workItem from="1725664816072" duration="3021000" />
+      <workItem from="1725929487335" duration="32000" />
+      <workItem from="1725929553007" duration="286000" />
+      <workItem from="1726269274407" duration="102000" />
     </task>
     <servers />
   </component>

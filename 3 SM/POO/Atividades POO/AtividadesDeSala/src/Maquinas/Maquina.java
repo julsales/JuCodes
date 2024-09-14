@@ -1,4 +1,4 @@
-package maquinas;
+package Maquinas;
 
 public class Maquina {
     String nome;

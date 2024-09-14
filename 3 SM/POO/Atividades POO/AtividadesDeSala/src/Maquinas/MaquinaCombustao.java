@@ -1,4 +1,4 @@
-package maquinas;
+package Maquinas;
 
 public class MaquinaCombustao extends Maquina {
     enum TipoCombustivel{

@@ -1,4 +1,4 @@
-package maquinas;
+package Maquinas;
 
 import java.util.Scanner;
 

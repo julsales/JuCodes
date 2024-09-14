@@ -1,4 +1,4 @@
-package figurasgeometricas;
+package FigurasGeometricas;
 
 class Circulo {
     double raio;
