@@ -40,15 +40,15 @@ int main() {
 //insere um novo nó na lista
 void inserirOrdenado(Node **head, int valor) {
   Node *novo = (Node*)malloc(sizeof(Node));
-  if (novo != NULL){
+  if(head==NULL) {
     novo->valor = valor;
-    novo->prox = *head;
+    novo->prox = NULL;
     novo->ant = NULL;
-
+  }
     if(*head!=NULL){
       Node *aux = *head;
       aux = aux->prox;
-      while(aux->valor >= novo->valor) {
+      while(aux->valor && aux->valor<h) {
         (*head)->ant = novo;
       }
       *head = novo;
