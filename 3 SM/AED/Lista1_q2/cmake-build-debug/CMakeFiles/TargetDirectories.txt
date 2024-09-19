@@ -1,3 +1,0 @@
-C:/Users/julia/Documents/GitHub/jucode/3 SM/AED/Lista1_q2/cmake-build-debug/CMakeFiles/Lista1_q2.dir
-C:/Users/julia/Documents/GitHub/jucode/3 SM/AED/Lista1_q2/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/julia/Documents/GitHub/jucode/3 SM/AED/Lista1_q2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
