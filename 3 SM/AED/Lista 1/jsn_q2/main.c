@@ -58,8 +58,10 @@ void printar(Node *head) {
     int len = tamanho_node(head);
     char** nomes = (char**)malloc(len * sizeof(char*));
     Node *aux=head;
+
     for(int i=0; i<len; i++){
-        nomes[i]=aux->nome;
+        nomes[i] = (char*)malloc(50 * sizeof(char));
+        strcpy(nomes[i],aux->nome);
         aux=aux->next;
     }
     for(int i = 1;i<=len-1; i++){
@@ -75,6 +77,7 @@ void printar(Node *head) {
     for(int i=0; i<len; i++){
         printf("%s",nomes[i]);
         printf("\n");
+        free(nomes[i]);
     }
     free(nomes);
 }
@@ -94,7 +97,6 @@ void amigos_habay(Node *head) {
     }
     printf("Amigo do Habay:\n%s\n", escolhido->nome);
 }
-
 
 int main(void) {
     Node *headNao = NULL;
@@ -119,7 +121,6 @@ int main(void) {
     printar(headNao);
     printf("\n");
     amigos_habay(headSim);
-
     while (headSim != NULL) {
         remover(&headSim);
     }
