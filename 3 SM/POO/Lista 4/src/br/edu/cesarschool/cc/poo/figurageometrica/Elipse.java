@@ -22,10 +22,10 @@ public class Elipse extends FiguraGeometrica {
     public void setRaioMaior(double raioMaior) {
         this.raioMaior = raioMaior;
     }
-    public double CalcularArea() {
+    public double calcularArea() {
         return Math.PI * getRaioMenor() * getRaioMaior();
     }
-    public double CalcularPerimetro() {
+    public double calcularPerimetro() {
         return Math.PI * (getRaioMenor() + getRaioMaior());
     }
 }
