@@ -16,6 +16,7 @@ public class Barbeiro extends Pessoa implements Runnable {
             while (true) {
                 Cliente cliente = barbearia.proximoCliente(id);
                 if (cliente != null) {
+                    System.out.println("Barbeiro " + id + " acordou! Começando os trabalhos!" );
                     System.out.println("Barbeiro " + id + " cortando o cabelo do Cliente " + cliente.getId());
                     int random=ThreadLocalRandom.current().nextInt(1000, 3000);
                     Thread.sleep(random);
