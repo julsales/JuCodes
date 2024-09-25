@@ -23,9 +23,8 @@ public class Barbearia {
         return false;
     }
 
-    public synchronized Cliente proximoCliente(int id) throws InterruptedException {
+    public synchronized Cliente proximoCliente() throws InterruptedException {
         while (filaClientes.isEmpty()) {
-            System.out.println("Barbeiro " + id + " dormindo...");
             wait();
         }
         return filaClientes.poll();
@@ -34,5 +33,9 @@ public class Barbearia {
     public synchronized void corteTerminado(Cliente cliente) {
         System.out.println("Cliente " + cliente.getId() + " terminou o corte e está saindo da barbearia.");
         notifyAll();
+    }
+
+    public synchronized boolean filaVazia() {
+        return filaClientes.isEmpty();
     }
 }
