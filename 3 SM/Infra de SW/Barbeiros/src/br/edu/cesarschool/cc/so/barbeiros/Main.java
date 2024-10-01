@@ -21,7 +21,6 @@ public class Main {
             barbeiros[i] = new Barbeiro(i + 1, barbearia);
             new Thread(barbeiros[i]).start();
         }
-
         while (true){
             System.out.println("Digite o numero de pessoas que vao passar pela barbearia: ");
             int numClientes = scan.nextInt();

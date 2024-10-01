@@ -20,7 +20,13 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3ca63e4-078c-44c3-abbf-f779aa376796" name="Changes" comment="" />
+    <list default="true" id="f3ca63e4-078c-44c3-abbf-f779aa376796" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../POO/Atividades POO/JunitTest/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Infra de SW/Barbeiros/src/br/edu/cesarschool/cc/so/barbeiros/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Infra de SW/Barbeiros/src/br/edu/cesarschool/cc/so/barbeiros/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../POO/Atividades POO/JunitTest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../POO/Atividades POO/JunitTest/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../POO/Atividades POO/JunitTest/src/main/java/testes/CalculadorAliquota.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../POO/Atividades POO/JunitTest/src/main/java/testes/CalculadorAliquota.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../POO/Atividades POO/JunitTest/src/test/java/TesteAliquota.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../POO/Atividades POO/JunitTest/src/test/java/TesteAliquota.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,6 +84,7 @@
       <workItem from="1726667611960" duration="2442000" />
       <workItem from="1726672281497" duration="39000" />
       <workItem from="1726758899501" duration="665000" />
+      <workItem from="1727796128525" duration="228000" />
     </task>
     <servers />
   </component>
