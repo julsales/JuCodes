@@ -1,4 +1,7 @@
 package br.com.cesarschool.poo.titulos.entidades;
+
+import java.time.LocalDateTime;
+
 /*
  * Esta classe deve ter os seguintes atributos:
  * entidadeCredito, do tipo EntidadeOperadora
@@ -15,5 +18,20 @@ package br.com.cesarschool.poo.titulos.entidades;
  *  
  */ 
 public class Transacao {
+    private EntidadeOperadora entidadeCredito;
+    private EntidadeOperadora entidadeDebito;
+    private Acao acao;
+    private TituloDivida tituloDivida;
+    private double valorOperacao;
+    private LocalDateTime dataHoraOperacao;
+
+    public Transacao (EntidadeOperadora entidadeCredito, EntidadeOperadora entidadeDebito,Acao acao, TituloDivida tituloDivida, double valorOperacao, LocalDateTime dataHoraOperacao) {
+        this.entidadeCredito = entidadeCredito;
+        this.entidadeDebito = entidadeDebito;
+        this.acao = acao;
+        this.tituloDivida = tituloDivida;
+        this.valorOperacao = valorOperacao;
+        this.dataHoraOperacao = dataHoraOperacao;
+    }
 
 }

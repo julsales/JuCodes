@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3b8e36f-ffbf-4a3f-a7c1-4f12a1dfcfe6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AtividadesDeSala/src/Heranca/ProgramaTrianguloOO.java" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadesDeSala/src/Heranca/ProgramaTrianguloOO.java" afterDir="false" />
-    </list>
+    <list default="true" id="e3b8e36f-ffbf-4a3f-a7c1-4f12a1dfcfe6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +28,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/julia/Documents/GitHub/jucode/3 SM/POO/Atividades POO/AtividadesDeSala",
+    "last_opened_file_path": "C:/Users/julia/Documents/GitHub/jucode/3 SM/POO/AtividadeContinuada",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -74,6 +71,7 @@
       <workItem from="1725929553007" duration="286000" />
       <workItem from="1726269274407" duration="102000" />
       <workItem from="1726955092713" duration="884000" />
+      <workItem from="1729026433480" duration="16000" />
     </task>
     <servers />
   </component>

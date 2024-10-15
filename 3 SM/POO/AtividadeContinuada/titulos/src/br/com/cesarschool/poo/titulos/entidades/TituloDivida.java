@@ -1,4 +1,7 @@
 package br.com.cesarschool.poo.titulos.entidades;
+
+import java.time.LocalDate;
+
 /*
  * Esta classe deve herdar de Ativo.
  * E deve ter os seguintes atributos:
@@ -10,6 +13,21 @@ package br.com.cesarschool.poo.titulos.entidades;
  * Deve ter um método público double calcularPrecoTransacao(double montante): o preço 
  * da transação é montante vezes (1 - taxaJuros/100.0).
  */
-public class TituloDivida {
+public class TituloDivida extends Ativo {
+    private double taxaJuros;
+    public TituloDivida(int identificador, String nome, LocalDate dataDeValidade, double taxaJuros) {
+        super(identificador, nome, dataDeValidade);
+        this.taxaJuros = taxaJuros;
+    }
+    public double getTaxaJuros() {
+        return taxaJuros;
+    }
+    public void setTaxaJuros(double taxaJuros) {
+        this.taxaJuros = taxaJuros;
+    }
+
+    public double calcularPercoTransacao(double montante){
+        return montante * (1-taxaJuros/100);
+    }
 
 }
