@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\julia\Documents\GitHub\jucode\3 SM\AED\Lista 1\untitled1 Select CMakeLists.txt
