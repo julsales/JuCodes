@@ -1,0 +1,3 @@
+/cygdrive/c/Users/julia/Documents/GitHub/jucode/3 SM/AED/jsn_q1/cmake-build-debug/CMakeFiles/jsn_q1.dir
+/cygdrive/c/Users/julia/Documents/GitHub/jucode/3 SM/AED/jsn_q1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/julia/Documents/GitHub/jucode/3 SM/AED/jsn_q1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
