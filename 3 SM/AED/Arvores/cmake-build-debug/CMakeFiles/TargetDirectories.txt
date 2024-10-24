@@ -1,3 +1,0 @@
-/cygdrive/c/Users/julia/Documents/GitHub/jucode/3 SM/AED/Arvores/cmake-build-debug/CMakeFiles/Arvores.dir
-/cygdrive/c/Users/julia/Documents/GitHub/jucode/3 SM/AED/Arvores/cmake-build-debug/CMakeFiles/edit_cache.dir
-/cygdrive/c/Users/julia/Documents/GitHub/jucode/3 SM/AED/Arvores/cmake-build-debug/CMakeFiles/rebuild_cache.dir

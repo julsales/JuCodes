@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="941bf14d-f82b-41f4-b602-b83a7561b5b0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../POO/AtividadeContinuada/AtividadeContinuada.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arvores/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arvores/.idea/Arvores.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arvores/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arvores/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arvores/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arvores/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arvores/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arvores/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arvores/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arvores/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arvores/cmake-build-debug/.cmake/api/v1/reply/cache-v2-a0660556820389d1ad07.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arvores/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-4bf7faad4bcf7189cc90.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arvores/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-6671e29767a1deb1ba45.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arvores/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arvores/cmake-build-debug/.cmake/api/v1/reply/index-2024-10-19T16-26-42-0481.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arvores/cmake-build-debug/.cmake/api/v1/reply/target-Arvores-Debug-452de372fc1ad7a352d8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arvores/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-998cd4f7fed094a75206.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arvores/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arvores/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arvores/cmake-build-debug/Arvores.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arvores/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arvores/cmake-build-debug/CMakeFiles/3.28.1/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arvores/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arvores/cmake-build-debug/CMakeFiles/3.28.1/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arvores/cmake-build-debug/CMakeFiles/3.28.1/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arvores/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arvores/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arvores/cmake-build-debug/CMakeFiles/Arvores.dir/main.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arvores/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arvores/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arvores/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arvores/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arvores/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arvores/cmake-build-debug/CMakeFiles/edit_cache.dir/utility.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arvores/cmake-build-debug/CMakeFiles/rebuild_cache.dir/utility.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arvores/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arvores/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arvores/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arvores/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arvores/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 1/q3_jsn/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 1/q3_jsn/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 1/q3_jsn/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 1/q3_jsn/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 1/q3_jsn/.idea/q3_jsn.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 1/q3_jsn/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 1/q3_jsn/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 1/q3_jsn/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 1/q3_jsn/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 1/q3_jsn/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 1/q3_jsn/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 1/q3_jsn/cmake-build-debug/.cmake/api/v1/reply/cache-v2-8ef568cf8adbb4aa3397.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 1/q3_jsn/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-8cf95eb88db2c2b86842.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 1/q3_jsn/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-e38a5c2c60a6db1601f6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 1/q3_jsn/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 1/q3_jsn/cmake-build-debug/.cmake/api/v1/reply/index-2024-09-19T15-16-14-0503.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 1/q3_jsn/cmake-build-debug/.cmake/api/v1/reply/target-q3_jsn-Debug-0c87ee981fe8147d2f2a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 1/q3_jsn/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-499e2dff262d938de2c4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 1/q3_jsn/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 1/q3_jsn/cmake-build-debug/CMakeFiles/3.28.6/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 1/q3_jsn/cmake-build-debug/CMakeFiles/3.28.6/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 1/q3_jsn/cmake-build-debug/CMakeFiles/3.28.6/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 1/q3_jsn/cmake-build-debug/CMakeFiles/3.28.6/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 1/q3_jsn/cmake-build-debug/CMakeFiles/3.28.6/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 1/q3_jsn/cmake-build-debug/CMakeFiles/3.28.6/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 1/q3_jsn/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 1/q3_jsn/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 1/q3_jsn/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 1/q3_jsn/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 1/q3_jsn/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 1/q3_jsn/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 1/q3_jsn/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 1/q3_jsn/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 1/q3_jsn/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista 1/q3_jsn/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista1_q2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revisao/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revisao/.idea/Revisao.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revisao/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revisao/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revisao/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revisao/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revisao/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revisao/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revisao/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revisao/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revisao/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revisao/cmake-build-debug/.cmake/api/v1/reply/cache-v2-53ee297820ed7e109a00.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revisao/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-592f61fe71e87b657ef9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revisao/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-9cce18f1fe8a07ff3d55.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revisao/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revisao/cmake-build-debug/.cmake/api/v1/reply/index-2024-10-01T15-23-01-0634.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revisao/cmake-build-debug/.cmake/api/v1/reply/target-Revisao-Debug-97cb6b4ecbf374e5f0bf.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revisao/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-499e2dff262d938de2c4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revisao/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revisao/cmake-build-debug/CMakeFiles/3.28.6/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revisao/cmake-build-debug/CMakeFiles/3.28.6/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revisao/cmake-build-debug/CMakeFiles/3.28.6/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revisao/cmake-build-debug/CMakeFiles/3.28.6/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revisao/cmake-build-debug/CMakeFiles/3.28.6/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revisao/cmake-build-debug/CMakeFiles/3.28.6/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revisao/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revisao/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revisao/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revisao/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revisao/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revisao/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revisao/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revisao/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revisao/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revisao/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q1/.idea/jsn_q1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q1/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q1/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q1/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q1/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q1/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q1/cmake-build-debug/.cmake/api/v1/reply/cache-v2-691a5c2d037fa2ea098b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q1/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-fc039fd79abcead65061.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q1/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-f5a58df8da7af3c577de.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q1/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q1/cmake-build-debug/.cmake/api/v1/reply/index-2024-10-21T03-25-06-0121.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q1/cmake-build-debug/.cmake/api/v1/reply/target-jsn_q1-Debug-ff294d7cbe34119b763b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q1/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-998cd4f7fed094a75206.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q1/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q1/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q1/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q1/cmake-build-debug/CMakeFiles/3.28.1/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q1/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q1/cmake-build-debug/CMakeFiles/3.28.1/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q1/cmake-build-debug/CMakeFiles/3.28.1/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q1/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q1/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q1/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q1/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q1/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q1/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q1/cmake-build-debug/CMakeFiles/edit_cache.dir/utility.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q1/cmake-build-debug/CMakeFiles/jsn_q1.dir/main.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q1/cmake-build-debug/CMakeFiles/rebuild_cache.dir/utility.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q1/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q1/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q1/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q1/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q1/cmake-build-debug/jsn_q1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q1/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q2/.idea/jsn_q2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q2/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q2/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q2/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q2/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q2/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q2/cmake-build-debug/.cmake/api/v1/reply/cache-v2-6a3309f6f63e0e2347e4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q2/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-0072057a8fcdafce3e52.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q2/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-5622192880dc24d1ea28.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q2/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q2/cmake-build-debug/.cmake/api/v1/reply/index-2024-10-20T20-18-22-0464.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q2/cmake-build-debug/.cmake/api/v1/reply/target-jsn_q2-Debug-18eceba3b35c60477190.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q2/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-998cd4f7fed094a75206.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q2/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q2/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q2/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q2/cmake-build-debug/CMakeFiles/3.28.1/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q2/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q2/cmake-build-debug/CMakeFiles/3.28.1/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q2/cmake-build-debug/CMakeFiles/3.28.1/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q2/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q2/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q2/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q2/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q2/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q2/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q2/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q2/cmake-build-debug/CMakeFiles/edit_cache.dir/utility.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q2/cmake-build-debug/CMakeFiles/jsn_q2.dir/main.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q2/cmake-build-debug/CMakeFiles/rebuild_cache.dir/utility.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q2/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q2/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q2/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q2/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q2/cmake-build-debug/jsn_q2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsn_q2/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../POO/Atividades POO/AtividadesDeSala/src/Contas/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../POO/Atividades POO/AtividadesDeSala/src/Contas/Conta.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2nkXuAZZFGEDeAV4tZvy2djpW7E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/julia/Documents/GitHub/jucode/3 SM/AED/Lista 2/jsn_q1",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="941bf14d-f82b-41f4-b602-b83a7561b5b0" name="Changes" comment="" />
+      <created>1729518269916</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729518269916</updated>
+      <workItem from="1729518271040" duration="89000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
