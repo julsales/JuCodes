@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"1c4dbc9a39c13998","type":"text","text":"Godot","x":-20,"y":-80,"width":250,"height":59},
+		{"id":"3d9a5929b32c71fe","type":"text","text":"Objetos 2D são sprites (sprites2D)","x":-243,"y":115,"width":250,"height":60},
+		{"id":"00a7cda35a9fd4c5","type":"text","text":"Possuem colisão (Area 2D -> collision shape)","x":-345,"y":285,"width":250,"height":60},
+		{"id":"0f2565c4f62d0277","type":"text","text":"aplica raycast","x":-472,"y":465,"width":250,"height":60},
+		{"id":"153b346386d4496e","type":"file","file":"GameJam/Raycast.md","subpath":"#^e68ae1","x":-940,"y":620,"width":452,"height":280}
+	],
+	"edges":[
+		{"id":"3efae8ed600b6d55","fromNode":"1c4dbc9a39c13998","fromSide":"bottom","toNode":"3d9a5929b32c71fe","toSide":"top"},
+		{"id":"bcb94143a01682a7","fromNode":"3d9a5929b32c71fe","fromSide":"bottom","toNode":"00a7cda35a9fd4c5","toSide":"top"},
+		{"id":"74e0880a06d958b6","fromNode":"00a7cda35a9fd4c5","fromSide":"bottom","toNode":"0f2565c4f62d0277","toSide":"top"},
+		{"id":"f25d31930a420241","fromNode":"0f2565c4f62d0277","fromSide":"bottom","toNode":"153b346386d4496e","toSide":"top"}
+	]
+}
