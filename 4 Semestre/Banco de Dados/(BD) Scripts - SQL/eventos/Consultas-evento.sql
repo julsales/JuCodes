@@ -32,7 +32,7 @@ join Evento e on c.cod_cliente = e.cliente_cod_cliente
 join local_evento l on e.Local_cod_Local1 = l.cod_local
 where e.valor > 2000 and l.nome_local = 'Parque de Exposições';
 
--- q8 
+-- q8 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 select nome, telefone from cliente
 where cod_cliente not in (
 select cliente_cod_cliente from reserva);
